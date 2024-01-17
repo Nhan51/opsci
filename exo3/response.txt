@@ -1,0 +1,2 @@
+## ps -aux | grep ^`whoami`
+Renvoie l'ensemble des processus s'executant par la machine et la session actuelle

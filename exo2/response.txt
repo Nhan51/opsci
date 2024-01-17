@@ -1,0 +1,8 @@
+## cd ~ ; ls -al 
+Execution sequentielle de cd ~ et ls -al
+
+## cd ~ & ls -al
+Execution parallèle
+
+## cd ~ && ls -al
+Execution de ls -al seulement si cd s'execute, et vice versa
